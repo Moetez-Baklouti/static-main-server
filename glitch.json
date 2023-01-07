@@ -1,0 +1,6 @@
+{
+  "start": " java -jar *.jar",
+  "watch": {
+    "throttle": 500
+  }
+}
